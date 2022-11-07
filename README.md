@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Itachi0710
 - 👀 I’m interested in developement and coding
-- 🌱 I’m currently learning c++ and python
+- 🌱 I’m currently learning Data Structures and Algorithms in c++
 - 💞️ I’m looking to collaborate on sourcecode 
 - 📫 How to reach me ighandle-aniketshrivastava07_10
 
